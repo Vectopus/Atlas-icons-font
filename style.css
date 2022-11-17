@@ -1,0 +1,387 @@
+@font-face {
+  font-family: 'Atlas-Icons';
+  src:  url('fonts/Atlas-Icons.eot?ynbtj7');
+  src:  url('fonts/Atlas-Icons.eot?ynbtj7#iefix') format('embedded-opentype'),
+    url('fonts/Atlas-Icons.ttf?ynbtj7') format('truetype'),
+    url('fonts/Atlas-Icons.woff?ynbtj7') format('woff'),
+    url('fonts/Atlas-Icons.svg?ynbtj7#Atlas-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="at-"], [class*=" at-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Atlas-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.at-dial-option-edited1:before {
+  content: "\e900";
+}
+.at-fast-forward-edited:before {
+  content: "\e901";
+}
+.at-frequency-edited1:before {
+  content: "\e902";
+}
+.at-increase-volume1:before {
+  content: "\e903";
+}
+.at-low-volume1:before {
+  content: "\e904";
+}
+.at-medium-volume1:before {
+  content: "\e905";
+}
+.at-mic1:before {
+  content: "\e906";
+}
+.at-microphone1:before {
+  content: "\e907";
+}
+.at-movie1:before {
+  content: "\e908";
+}
+.at-music1:before {
+  content: "\e909";
+}
+.at-music-album1:before {
+  content: "\e90a";
+}
+.at-music-file1:before {
+  content: "\e90b";
+}
+.at-music-folder1:before {
+  content: "\e90c";
+}
+.at-music-media1:before {
+  content: "\e90d";
+}
+.at-music-note1:before {
+  content: "\e90e";
+}
+.at-music-notes1:before {
+  content: "\e90f";
+}
+.at-mute-audio1:before {
+  content: "\e910";
+}
+.at-mute-volume1:before {
+  content: "\e911";
+}
+.at-next1:before {
+  content: "\e912";
+}
+.at-pause1:before {
+  content: "\e913";
+}
+.at-person-streaming1:before {
+  content: "\e914";
+}
+.at-play1:before {
+  content: "\e915";
+}
+.at-preference1:before {
+  content: "\e916";
+}
+.at-preference-dials1:before {
+  content: "\e917";
+}
+.at-preferences1:before {
+  content: "\e918";
+}
+.at-preferences-dials1:before {
+  content: "\e919";
+}
+.at-previous1:before {
+  content: "\e91a";
+}
+.at-record1:before {
+  content: "\e91b";
+}
+.at-recording1:before {
+  content: "\e91c";
+}
+.at-replay1:before {
+  content: "\e91d";
+}
+.at-rewind1:before {
+  content: "\e91e";
+}
+.at-shuffle1:before {
+  content: "\e91f";
+}
+.at-sound-file1:before {
+  content: "\e920";
+}
+.at-sound-specifics1:before {
+  content: "\e921";
+}
+.at-speaker1:before {
+  content: "\e922";
+}
+.at-stop1:before {
+  content: "\e923";
+}
+.at-streaming1:before {
+  content: "\e924";
+}
+.at-video-camera1:before {
+  content: "\e925";
+}
+.at-video-clip1:before {
+  content: "\e926";
+}
+.at-volume1:before {
+  content: "\e927";
+}
+.at-dial-option-edited-light:before {
+  content: "\e928";
+}
+.at-fast-forward-edited-light:before {
+  content: "\e929";
+}
+.at-frequency-edited-light:before {
+  content: "\e92a";
+}
+.at-increase-volume-light:before {
+  content: "\e92b";
+}
+.at-low-volume-light:before {
+  content: "\e92c";
+}
+.at-medium-volume-light:before {
+  content: "\e92d";
+}
+.at-mic-light:before {
+  content: "\e92e";
+}
+.at-microphone-light:before {
+  content: "\e92f";
+}
+.at-movie-light:before {
+  content: "\e930";
+}
+.at-music-light:before {
+  content: "\e931";
+}
+.at-music-album-light:before {
+  content: "\e932";
+}
+.at-music-file-light:before {
+  content: "\e933";
+}
+.at-music-folder-light:before {
+  content: "\e934";
+}
+.at-music-media-light:before {
+  content: "\e935";
+}
+.at-music-note-light:before {
+  content: "\e936";
+}
+.at-music-notes-light:before {
+  content: "\e937";
+}
+.at-mute-audio-light:before {
+  content: "\e938";
+}
+.at-mute-volume-light:before {
+  content: "\e939";
+}
+.at-next-light:before {
+  content: "\e93a";
+}
+.at-pause-light:before {
+  content: "\e93b";
+}
+.at-person-streaming-light:before {
+  content: "\e93c";
+}
+.at-play-light:before {
+  content: "\e93d";
+}
+.at-preference-light:before {
+  content: "\e93e";
+}
+.at-preference-dials-light:before {
+  content: "\e93f";
+}
+.at-preferences-light:before {
+  content: "\e940";
+}
+.at-preferences-dials-light:before {
+  content: "\e941";
+}
+.at-previous-light:before {
+  content: "\e942";
+}
+.at-record-light:before {
+  content: "\e943";
+}
+.at-recording-light:before {
+  content: "\e944";
+}
+.at-replay-light:before {
+  content: "\e945";
+}
+.at-rewind-light:before {
+  content: "\e946";
+}
+.at-shuffle-light:before {
+  content: "\e947";
+}
+.at-sound-file-light:before {
+  content: "\e948";
+}
+.at-sound-specifics-light:before {
+  content: "\e949";
+}
+.at-speaker-light:before {
+  content: "\e94a";
+}
+.at-stop-light:before {
+  content: "\e94b";
+}
+.at-streaming-light:before {
+  content: "\e94c";
+}
+.at-video-camera-light:before {
+  content: "\e94d";
+}
+.at-video-clip-light:before {
+  content: "\e94e";
+}
+.at-volume-light:before {
+  content: "\e94f";
+}
+.at-dial-option-edited-bold:before {
+  content: "\e950";
+}
+.at-fast-forward-edited-bold:before {
+  content: "\e951";
+}
+.at-frequency-edited-bold:before {
+  content: "\e952";
+}
+.at-increase-volume2-bold:before {
+  content: "\e953";
+}
+.at-low-volume2-bold:before {
+  content: "\e954";
+}
+.at-medium-volume-bold:before {
+  content: "\e955";
+}
+.at-mic-bold:before {
+  content: "\e956";
+}
+.at-microphone-bold:before {
+  content: "\e957";
+}
+.at-movie-bold:before {
+  content: "\e958";
+}
+.at-music-bold:before {
+  content: "\e959";
+}
+.at-music-album-bold:before {
+  content: "\e95a";
+}
+.at-music-file-bold:before {
+  content: "\e95b";
+}
+.at-music-folder-bold:before {
+  content: "\e95c";
+}
+.at-music-media-bold:before {
+  content: "\e95d";
+}
+.at-music-note-bold:before {
+  content: "\e95e";
+}
+.at-music-notes-bold:before {
+  content: "\e95f";
+}
+.at-mute-audio-bold:before {
+  content: "\e960";
+}
+.at-mute-volume-bold:before {
+  content: "\e961";
+}
+.at-next-bold:before {
+  content: "\e962";
+}
+.at-pause-bold:before {
+  content: "\e963";
+}
+.at-person-streaming-bold:before {
+  content: "\e964";
+}
+.at-play-bold:before {
+  content: "\e965";
+}
+.at-preference-bold:before {
+  content: "\e966";
+}
+.at-preference-dials-bold:before {
+  content: "\e967";
+}
+.at-preferences-bold:before {
+  content: "\e968";
+}
+.at-preferences-dials-bold:before {
+  content: "\e969";
+}
+.at-previous-bold:before {
+  content: "\e96a";
+}
+.at-record-bold:before {
+  content: "\e96b";
+}
+.at-recording-bold:before {
+  content: "\e96c";
+}
+.at-replay-bold:before {
+  content: "\e96d";
+}
+.at-rewind-bold:before {
+  content: "\e96e";
+}
+.at-shuffle-bold:before {
+  content: "\e96f";
+}
+.at-sound-file-bold:before {
+  content: "\e970";
+}
+.at-sound-specifics-bold:before {
+  content: "\e971";
+}
+.at-speaker-bold:before {
+  content: "\e972";
+}
+.at-stop-bold:before {
+  content: "\e973";
+}
+.at-streaming-bold:before {
+  content: "\e974";
+}
+.at-video-camera-bold:before {
+  content: "\e975";
+}
+.at-video-clip-bold:before {
+  content: "\e976";
+}
+.at-volume-bold:before {
+  content: "\e977";
+}

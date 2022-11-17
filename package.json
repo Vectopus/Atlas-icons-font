@@ -1,0 +1,20 @@
+{
+  "name": "@vectopus/atlas-icons",
+  "version": "0.0.1",
+  "description": "Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vectopus",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vectopus/Atlas-icons-font.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vectopus/Atlas-icons-font/issues"
+  },
+  "homepage": "https://github.com/Vectopus/Atlas-icons-font#readme"
+}
