@@ -1,8 +1,7 @@
 {
   "name": "@vectopus/atlas-icons",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
