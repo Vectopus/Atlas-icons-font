@@ -1,6 +1,6 @@
-# Atlas icons
+# Atlas icons 
 
-#### Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
+#### Open source [icons library](http://atlasicons.vectopus.com/), Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
 
 ##### _Made by [Vectopus](http://vectopus.com/)._
 
