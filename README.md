@@ -25,6 +25,7 @@ npm i @vectopus/atlas-icons
 
 ### Related Packages
 - [Atlas Icons React](https://github.com/Vectopus/Atlas-icons-react)
+- [Atlas Icons React Native](https://github.com/Vectopus/Atlas-icons-react-native)
 - [Atlas Icons Vue](https://github.com/Vectopus/Atlas-icons-vue)
 - [Atlas Icons Flutter](https://github.com/Vectopus/Atlas-icons-flutter)
 

@@ -1,0 +1,866 @@
+@font-face {
+  font-family: 'hotel-service';
+  src:  url('fonts/hotel-service.eot?plh80d');
+  src:  url('fonts/hotel-service.eot?plh80d#iefix') format('embedded-opentype'),
+    url('fonts/hotel-service.ttf?plh80d') format('truetype'),
+    url('fonts/hotel-service.woff?plh80d') format('woff'),
+    url('fonts/hotel-service.svg?plh80d#hotel-service') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.at-air-conditioner-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e900";
+}
+.at-apartment-building-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e901";
+}
+.at-baggage-trolley-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e902";
+}
+.at-bag-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e903";
+}
+.at-balcony-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e904";
+}
+.at-bathrobe-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e905";
+}
+.at-bathtub-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e906";
+}
+.at-bed-furniture-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e907";
+}
+.at-bird-fountain-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e908";
+}
+.at-car-key-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e909";
+}
+.at-champagne-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e90a";
+}
+.at-cloche-cover-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e90b";
+}
+.at-clothing-hanger-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e90c";
+}
+.at-coffee-maker-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e90d";
+}
+.at-concierge-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e90e";
+}
+.at-cooking-station-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e90f";
+}
+.at-customer-service-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e910";
+}
+.at-door-lock-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e911";
+}
+.at-downward-escalator-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e912";
+}
+.at-elevator-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e913";
+}
+.at-fire-extinguisher-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e914";
+}
+.at-food-store-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e915";
+}
+.at-fridge-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e916";
+}
+.at-front-desk-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e917";
+}
+.at-gym-weights-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e918";
+}
+.at-hair-dryer-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e919";
+}
+.at-hotel-concierge-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e91a";
+}
+.at-hotel-location-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e91b";
+}
+.at-hotel-mobile-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e91c";
+}
+.at-hot-food-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e91d";
+}
+.at-hot-seat-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e91e";
+}
+.at-hot-stone-massage-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e91f";
+}
+.at-house-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e920";
+}
+.at-keycard-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e921";
+}
+.at-laundry-service-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e922";
+}
+.at-luggage-trolley-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e923";
+}
+.at-man-woman-restroom-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e924";
+}
+.at-martini-straw-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e925";
+}
+.at-meal-restaurant-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e926";
+}
+.at-microwave-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e927";
+}
+.at-mirror-sink-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e928";
+}
+.at-no-smoking-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e929";
+}
+.at-park-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e92a";
+}
+.at-pets-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e92b";
+}
+.at-question-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e92c";
+}
+.at-restaurant-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e92d";
+}
+.at-room-key-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e92e";
+}
+.at-room-service-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e92f";
+}
+.at-room-service-trolley-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e930";
+}
+.at-safe-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e931";
+}
+.at-security-camera-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e932";
+}
+.at-service-bell-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e933";
+}
+.at-shower-facilities-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e934";
+}
+.at-slippers-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e935";
+}
+.at-sound-proof-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e936";
+}
+.at-stairs-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e937";
+}
+.at-swimming-pool-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e938";
+}
+.at-taxi-service-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e939";
+}
+.at-tea-coffee-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e93a";
+}
+.at-terrace-chair-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e93b";
+}
+.at-terrace-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e93c";
+}
+.at-toilet-bathroom-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e93d";
+}
+.at-toilet-paper-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e93e";
+}
+.at-tooth-brush-paste-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e93f";
+}
+.at-upward-escalator-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e940";
+}
+.at-video-monitor-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e941";
+}
+.at-view-window-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e942";
+}
+.at-washing-machine-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e943";
+}
+.at-water-boiler-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e944";
+}
+.at-wifi-modem-thin:before {
+  font-family: 'hotel-service' !important;
+  content: "\e945";
+}
+.at-air-conditioner:before {
+  font-family: 'hotel-service' !important;
+  content: "\e946";
+}
+.at-apartment-building:before {
+  font-family: 'hotel-service' !important;
+  content: "\e947";
+}
+.at-bag:before {
+  font-family: 'hotel-service' !important;
+  content: "\e948";
+}
+.at-baggage-trolley:before {
+  font-family: 'hotel-service' !important;
+  content: "\e949";
+}
+.at-balcony:before {
+  font-family: 'hotel-service' !important;
+  content: "\e94a";
+}
+.at-bathrobe:before {
+  font-family: 'hotel-service' !important;
+  content: "\e94b";
+}
+.at-bathtub:before {
+  font-family: 'hotel-service' !important;
+  content: "\e94c";
+}
+.at-bed-furniture:before {
+  font-family: 'hotel-service' !important;
+  content: "\e94d";
+}
+.at-bird-fountain:before {
+  font-family: 'hotel-service' !important;
+  content: "\e94e";
+}
+.at-car-key:before {
+  font-family: 'hotel-service' !important;
+  content: "\e94f";
+}
+.at-champagne:before {
+  font-family: 'hotel-service' !important;
+  content: "\e950";
+}
+.at-cloche-cover:before {
+  font-family: 'hotel-service' !important;
+  content: "\e951";
+}
+.at-clothing-hanger:before {
+  font-family: 'hotel-service' !important;
+  content: "\e952";
+}
+.at-coffee-maker:before {
+  font-family: 'hotel-service' !important;
+  content: "\e953";
+}
+.at-concierge:before {
+  font-family: 'hotel-service' !important;
+  content: "\e954";
+}
+.at-cooking-station:before {
+  font-family: 'hotel-service' !important;
+  content: "\e955";
+}
+.at-customer-service:before {
+  font-family: 'hotel-service' !important;
+  content: "\e956";
+}
+.at-door-lock:before {
+  font-family: 'hotel-service' !important;
+  content: "\e957";
+}
+.at-downward-escalator:before {
+  font-family: 'hotel-service' !important;
+  content: "\e958";
+}
+.at-elevator:before {
+  font-family: 'hotel-service' !important;
+  content: "\e959";
+}
+.at-fire-extinguisher:before {
+  font-family: 'hotel-service' !important;
+  content: "\e95a";
+}
+.at-food-store:before {
+  font-family: 'hotel-service' !important;
+  content: "\e95b";
+}
+.at-fridge:before {
+  font-family: 'hotel-service' !important;
+  content: "\e95c";
+}
+.at-front-desk:before {
+  font-family: 'hotel-service' !important;
+  content: "\e95d";
+}
+.at-gym-weights:before {
+  font-family: 'hotel-service' !important;
+  content: "\e95e";
+}
+.at-hair-dryer:before {
+  font-family: 'hotel-service' !important;
+  content: "\e95f";
+}
+.at-hotel-concierge:before {
+  font-family: 'hotel-service' !important;
+  content: "\e960";
+}
+.at-hotel-location:before {
+  font-family: 'hotel-service' !important;
+  content: "\e961";
+}
+.at-hotel-mobile:before {
+  font-family: 'hotel-service' !important;
+  content: "\e962";
+}
+.at-hot-food:before {
+  font-family: 'hotel-service' !important;
+  content: "\e963";
+}
+.at-hot-seat:before {
+  font-family: 'hotel-service' !important;
+  content: "\e964";
+}
+.at-hot-stone-massage:before {
+  font-family: 'hotel-service' !important;
+  content: "\e965";
+}
+.at-house:before {
+  font-family: 'hotel-service' !important;
+  content: "\e966";
+}
+.at-keycard:before {
+  font-family: 'hotel-service' !important;
+  content: "\e967";
+}
+.at-laundry-service:before {
+  font-family: 'hotel-service' !important;
+  content: "\e968";
+}
+.at-luggage-trolley:before {
+  font-family: 'hotel-service' !important;
+  content: "\e969";
+}
+.at-man-woman-restroom:before {
+  font-family: 'hotel-service' !important;
+  content: "\e96a";
+}
+.at-martini-straw:before {
+  font-family: 'hotel-service' !important;
+  content: "\e96b";
+}
+.at-meal-restaurant:before {
+  font-family: 'hotel-service' !important;
+  content: "\e96c";
+}
+.at-microwave:before {
+  font-family: 'hotel-service' !important;
+  content: "\e96d";
+}
+.at-mirror-sink:before {
+  font-family: 'hotel-service' !important;
+  content: "\e96e";
+}
+.at-no-smoking:before {
+  font-family: 'hotel-service' !important;
+  content: "\e96f";
+}
+.at-park:before {
+  font-family: 'hotel-service' !important;
+  content: "\e970";
+}
+.at-pets:before {
+  font-family: 'hotel-service' !important;
+  content: "\e971";
+}
+.at-question:before {
+  font-family: 'hotel-service' !important;
+  content: "\e972";
+}
+.at-restaurant:before {
+  font-family: 'hotel-service' !important;
+  content: "\e973";
+}
+.at-room-key:before {
+  font-family: 'hotel-service' !important;
+  content: "\e974";
+}
+.at-room-service:before {
+  font-family: 'hotel-service' !important;
+  content: "\e975";
+}
+.at-room-service-trolley:before {
+  font-family: 'hotel-service' !important;
+  content: "\e976";
+}
+.at-safe:before {
+  font-family: 'hotel-service' !important;
+  content: "\e977";
+}
+.at-security-camera:before {
+  font-family: 'hotel-service' !important;
+  content: "\e978";
+}
+.at-service-bell:before {
+  font-family: 'hotel-service' !important;
+  content: "\e979";
+}
+.at-shower-facilities:before {
+  font-family: 'hotel-service' !important;
+  content: "\e97a";
+}
+.at-slippers:before {
+  font-family: 'hotel-service' !important;
+  content: "\e97b";
+}
+.at-sound-proof:before {
+  font-family: 'hotel-service' !important;
+  content: "\e97c";
+}
+.at-stairs:before {
+  font-family: 'hotel-service' !important;
+  content: "\e97d";
+}
+.at-swimming-pool:before {
+  font-family: 'hotel-service' !important;
+  content: "\e97e";
+}
+.at-taxi-service:before {
+  font-family: 'hotel-service' !important;
+  content: "\e97f";
+}
+.at-tea-coffee:before {
+  font-family: 'hotel-service' !important;
+  content: "\e980";
+}
+.at-terrace:before {
+  font-family: 'hotel-service' !important;
+  content: "\e981";
+}
+.at-terrace-chair:before {
+  font-family: 'hotel-service' !important;
+  content: "\e982";
+}
+.at-toilet-bathroom:before {
+  font-family: 'hotel-service' !important;
+  content: "\e983";
+}
+.at-toilet-paper:before {
+  font-family: 'hotel-service' !important;
+  content: "\e984";
+}
+.at-tooth-brush-paste:before {
+  font-family: 'hotel-service' !important;
+  content: "\e985";
+}
+.at-upward-escalator:before {
+  font-family: 'hotel-service' !important;
+  content: "\e986";
+}
+.at-video-monitor:before {
+  font-family: 'hotel-service' !important;
+  content: "\e987";
+}
+.at-view-window:before {
+  font-family: 'hotel-service' !important;
+  content: "\e988";
+}
+.at-washing-machine:before {
+  font-family: 'hotel-service' !important;
+  content: "\e989";
+}
+.at-water-boiler:before {
+  font-family: 'hotel-service' !important;
+  content: "\e98a";
+}
+.at-wifi-modem:before {
+  font-family: 'hotel-service' !important;
+  content: "\e98b";
+}
+.at-air-conditioner-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e98c";
+}
+.at-apartment-building-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e98d";
+}
+.at-bag-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e98e";
+}
+.at-baggage-trolley-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e98f";
+}
+.at-balcony-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e990";
+}
+.at-bathrobe-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e991";
+}
+.at-bathtub-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e992";
+}
+.at-bed-furniture-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e993";
+}
+.at-bird-fountain-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e994";
+}
+.at-car-key-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e995";
+}
+.at-champagne-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e996";
+}
+.at-cloche-cover-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e997";
+}
+.at-clothing-hanger-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e998";
+}
+.at-coffee-maker-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e999";
+}
+.at-concierge-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e99a";
+}
+.at-cooking-station-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e99b";
+}
+.at-customer-service-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e99c";
+}
+.at-door-lock-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e99d";
+}
+.at-downward-escalator-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e99e";
+}
+.at-elevator-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e99f";
+}
+.at-fire-extinguisher-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a0";
+}
+.at-food-store-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a1";
+}
+.at-fridge-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a2";
+}
+.at-front-desk-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a3";
+}
+.at-gym-weights-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a4";
+}
+.at-hair-dryer-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a5";
+}
+.at-hotel-concierge-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a6";
+}
+.at-hotel-location-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a7";
+}
+.at-hotel-mobile-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a8";
+}
+.at-hot-food-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9a9";
+}
+.at-hot-seat-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9aa";
+}
+.at-hot-stone-massage-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ab";
+}
+.at-house-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ac";
+}
+.at-keycard-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ad";
+}
+.at-laundry-service-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ae";
+}
+.at-luggage-trolley-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9af";
+}
+.at-man-woman-restroom-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b0";
+}
+.at-martini-straw-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b1";
+}
+.at-meal-restaurant-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b2";
+}
+.at-microwave-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b3";
+}
+.at-mirror-sink-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b4";
+}
+.at-no-smoking-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b5";
+}
+.at-park-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b6";
+}
+.at-pets-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b7";
+}
+.at-question-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b8";
+}
+.at-restaurant-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9b9";
+}
+.at-room-key-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ba";
+}
+.at-room-service-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9bb";
+}
+.at-room-service-trolley-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9bc";
+}
+.at-safe-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9bd";
+}
+.at-security-camera-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9be";
+}
+.at-service-bell-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9bf";
+}
+.at-shower-facilities-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c0";
+}
+.at-slippers-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c1";
+}
+.at-sound-proof-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c2";
+}
+.at-stairs-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c3";
+}
+.at-swimming-pool-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c4";
+}
+.at-taxi-service-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c5";
+}
+.at-tea-coffee-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c6";
+}
+.at-terrace-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c7";
+}
+.at-terrace-chair-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c8";
+}
+.at-toilet-bathroom-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9c9";
+}
+.at-toilet-paper-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ca";
+}
+.at-tooth-brush-paste-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9cb";
+}
+.at-upward-escalator-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9cc";
+}
+.at-video-monitor-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9cd";
+}
+.at-view-window-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9ce";
+}
+.at-washing-machine-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9cf";
+}
+.at-water-boiler-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9d0";
+}
+.at-wifi-modem-bold:before {
+  font-family: 'hotel-service' !important;
+  content: "\e9d1";
+}

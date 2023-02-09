@@ -1,0 +1,614 @@
+@font-face {
+  font-family: 'school';
+  src:  url('fonts/school.eot?flf3or');
+  src:  url('fonts/school.eot?flf3or#iefix') format('embedded-opentype'),
+    url('fonts/school.ttf?flf3or') format('truetype'),
+    url('fonts/school.woff?flf3or') format('woff'),
+    url('fonts/school.svg?flf3or#school') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.at-abacus-thin:before {
+  font-family: 'school' !important;
+  content: "\e900";
+}
+.at-backpack-thin:before {
+  font-family: 'school' !important;
+  content: "\e901";
+}
+.at-bookshelf-books-thin:before {
+  font-family: 'school' !important;
+  content: "\e902";
+}
+.at-bookshelf-library-thin:before {
+  font-family: 'school' !important;
+  content: "\e903";
+}
+.at-book-thin:before {
+  font-family: 'school' !important;
+  content: "\e904";
+}
+.at-cells-thin:before {
+  font-family: 'school' !important;
+  content: "\e905";
+}
+.at-clipboard-lines-document-thin:before {
+  font-family: 'school' !important;
+  content: "\e906";
+}
+.at-clip-thin:before {
+  font-family: 'school' !important;
+  content: "\e907";
+}
+.at-compass-geometry-thin:before {
+  font-family: 'school' !important;
+  content: "\e908";
+}
+.at-compass-tool-thin:before {
+  font-family: 'school' !important;
+  content: "\e909";
+}
+.at-desk-lamp-light-thin:before {
+  font-family: 'school' !important;
+  content: "\e90a";
+}
+.at-dna-science-thin:before {
+  font-family: 'school' !important;
+  content: "\e90b";
+}
+.at-education-thin:before {
+  font-family: 'school' !important;
+  content: "\e90c";
+}
+.at-eraser-thin:before {
+  font-family: 'school' !important;
+  content: "\e90d";
+}
+.at-geography-thin:before {
+  font-family: 'school' !important;
+  content: "\e90e";
+}
+.at-glasses-thin:before {
+  font-family: 'school' !important;
+  content: "\e90f";
+}
+.at-graduate-thin:before {
+  font-family: 'school' !important;
+  content: "\e910";
+}
+.at-graduation-thin:before {
+  font-family: 'school' !important;
+  content: "\e911";
+}
+.at-ink-pen-thin:before {
+  font-family: 'school' !important;
+  content: "\e912";
+}
+.at-language-translation-thin:before {
+  font-family: 'school' !important;
+  content: "\e913";
+}
+.at-library-thin:before {
+  font-family: 'school' !important;
+  content: "\e914";
+}
+.at-lockers-storage-thin:before {
+  font-family: 'school' !important;
+  content: "\e915";
+}
+.at-math-thin:before {
+  font-family: 'school' !important;
+  content: "\e916";
+}
+.at-media-thin:before {
+  font-family: 'school' !important;
+  content: "\e917";
+}
+.at-notebook-thin:before {
+  font-family: 'school' !important;
+  content: "\e918";
+}
+.at-open-book-thin:before {
+  font-family: 'school' !important;
+  content: "\e919";
+}
+.at-paperclip-thin:before {
+  font-family: 'school' !important;
+  content: "\e91a";
+}
+.at-papers-lines-thin:before {
+  font-family: 'school' !important;
+  content: "\e91b";
+}
+.at-pencil-case-thin:before {
+  font-family: 'school' !important;
+  content: "\e91c";
+}
+.at-pencil-ruler-thin:before {
+  font-family: 'school' !important;
+  content: "\e91d";
+}
+.at-pencil-thin:before {
+  font-family: 'school' !important;
+  content: "\e91e";
+}
+.at-pen-thin:before {
+  font-family: 'school' !important;
+  content: "\e91f";
+}
+.at-pillar-thin:before {
+  font-family: 'school' !important;
+  content: "\e920";
+}
+.at-pin-thin:before {
+  font-family: 'school' !important;
+  content: "\e921";
+}
+.at-presentation-thin:before {
+  font-family: 'school' !important;
+  content: "\e922";
+}
+.at-projector-device-thin:before {
+  font-family: 'school' !important;
+  content: "\e923";
+}
+.at-rulers-thin:before {
+  font-family: 'school' !important;
+  content: "\e924";
+}
+.at-ruler-tool-thin:before {
+  font-family: 'school' !important;
+  content: "\e925";
+}
+.at-school-bell-thin:before {
+  font-family: 'school' !important;
+  content: "\e926";
+}
+.at-school-chair-desk-thin:before {
+  font-family: 'school' !important;
+  content: "\e927";
+}
+.at-scienctific-thin:before {
+  font-family: 'school' !important;
+  content: "\e928";
+}
+.at-scissor-thin:before {
+  font-family: 'school' !important;
+  content: "\e929";
+}
+.at-sharpener-thin:before {
+  font-family: 'school' !important;
+  content: "\e92a";
+}
+.at-speech-thin:before {
+  font-family: 'school' !important;
+  content: "\e92b";
+}
+.at-teacher-desk-thin:before {
+  font-family: 'school' !important;
+  content: "\e92c";
+}
+.at-telescope-thin:before {
+  font-family: 'school' !important;
+  content: "\e92d";
+}
+.at-textbook-thin:before {
+  font-family: 'school' !important;
+  content: "\e92e";
+}
+.at-timer-thin:before {
+  font-family: 'school' !important;
+  content: "\e92f";
+}
+.at-whiteboard-thin:before {
+  font-family: 'school' !important;
+  content: "\e930";
+}
+.at-abacus:before {
+  font-family: 'school' !important;
+  content: "\e931";
+}
+.at-backpack:before {
+  font-family: 'school' !important;
+  content: "\e932";
+}
+.at-book:before {
+  font-family: 'school' !important;
+  content: "\e933";
+}
+.at-bookshelf-books:before {
+  font-family: 'school' !important;
+  content: "\e934";
+}
+.at-bookshelf-library:before {
+  font-family: 'school' !important;
+  content: "\e935";
+}
+.at-cells:before {
+  font-family: 'school' !important;
+  content: "\e936";
+}
+.at-clip:before {
+  font-family: 'school' !important;
+  content: "\e937";
+}
+.at-clipboard-lines-document:before {
+  font-family: 'school' !important;
+  content: "\e938";
+}
+.at-compass-geometry:before {
+  font-family: 'school' !important;
+  content: "\e939";
+}
+.at-compass-tool:before {
+  font-family: 'school' !important;
+  content: "\e93a";
+}
+.at-desk-lamp-light:before {
+  font-family: 'school' !important;
+  content: "\e93b";
+}
+.at-dna-science:before {
+  font-family: 'school' !important;
+  content: "\e93c";
+}
+.at-education:before {
+  font-family: 'school' !important;
+  content: "\e93d";
+}
+.at-eraser:before {
+  font-family: 'school' !important;
+  content: "\e93e";
+}
+.at-geography:before {
+  font-family: 'school' !important;
+  content: "\e93f";
+}
+.at-glasses:before {
+  font-family: 'school' !important;
+  content: "\e940";
+}
+.at-graduate:before {
+  font-family: 'school' !important;
+  content: "\e941";
+}
+.at-graduation:before {
+  font-family: 'school' !important;
+  content: "\e942";
+}
+.at-ink-pen:before {
+  font-family: 'school' !important;
+  content: "\e943";
+}
+.at-language-translation:before {
+  font-family: 'school' !important;
+  content: "\e944";
+}
+.at-library:before {
+  font-family: 'school' !important;
+  content: "\e945";
+}
+.at-lockers-storage:before {
+  font-family: 'school' !important;
+  content: "\e946";
+}
+.at-math:before {
+  font-family: 'school' !important;
+  content: "\e947";
+}
+.at-media:before {
+  font-family: 'school' !important;
+  content: "\e948";
+}
+.at-notebook:before {
+  font-family: 'school' !important;
+  content: "\e949";
+}
+.at-open-book:before {
+  font-family: 'school' !important;
+  content: "\e94a";
+}
+.at-paperclip:before {
+  font-family: 'school' !important;
+  content: "\e94b";
+}
+.at-papers-lines:before {
+  font-family: 'school' !important;
+  content: "\e94c";
+}
+.at-pen:before {
+  font-family: 'school' !important;
+  content: "\e94d";
+}
+.at-pencil:before {
+  font-family: 'school' !important;
+  content: "\e94e";
+}
+.at-pencil-case:before {
+  font-family: 'school' !important;
+  content: "\e94f";
+}
+.at-pencil-ruler:before {
+  font-family: 'school' !important;
+  content: "\e950";
+}
+.at-pillar:before {
+  font-family: 'school' !important;
+  content: "\e951";
+}
+.at-pin:before {
+  font-family: 'school' !important;
+  content: "\e952";
+}
+.at-presentation:before {
+  font-family: 'school' !important;
+  content: "\e953";
+}
+.at-projector-device:before {
+  font-family: 'school' !important;
+  content: "\e954";
+}
+.at-rulers:before {
+  font-family: 'school' !important;
+  content: "\e955";
+}
+.at-ruler-tool:before {
+  font-family: 'school' !important;
+  content: "\e956";
+}
+.at-school-bell:before {
+  font-family: 'school' !important;
+  content: "\e957";
+}
+.at-school-chair-desk:before {
+  font-family: 'school' !important;
+  content: "\e958";
+}
+.at-scienctific:before {
+  font-family: 'school' !important;
+  content: "\e959";
+}
+.at-scissor:before {
+  font-family: 'school' !important;
+  content: "\e95a";
+}
+.at-sharpener:before {
+  font-family: 'school' !important;
+  content: "\e95b";
+}
+.at-speech:before {
+  font-family: 'school' !important;
+  content: "\e95c";
+}
+.at-teacher-desk:before {
+  font-family: 'school' !important;
+  content: "\e95d";
+}
+.at-telescope:before {
+  font-family: 'school' !important;
+  content: "\e95e";
+}
+.at-textbook:before {
+  font-family: 'school' !important;
+  content: "\e95f";
+}
+.at-timer:before {
+  font-family: 'school' !important;
+  content: "\e960";
+}
+.at-whiteboard:before {
+  font-family: 'school' !important;
+  content: "\e961";
+}
+.at-abacus-bold:before {
+  font-family: 'school' !important;
+  content: "\e962";
+}
+.at-backpack-bold:before {
+  font-family: 'school' !important;
+  content: "\e963";
+}
+.at-book-bold:before {
+  font-family: 'school' !important;
+  content: "\e964";
+}
+.at-bookshelf-books-bold:before {
+  font-family: 'school' !important;
+  content: "\e965";
+}
+.at-bookshelf-library-bold:before {
+  font-family: 'school' !important;
+  content: "\e966";
+}
+.at-cells-bold:before {
+  font-family: 'school' !important;
+  content: "\e967";
+}
+.at-clipboard-lines-document-bold:before {
+  font-family: 'school' !important;
+  content: "\e968";
+}
+.at-clip-bold:before {
+  font-family: 'school' !important;
+  content: "\e969";
+}
+.at-compass-geometry-bold:before {
+  font-family: 'school' !important;
+  content: "\e96a";
+}
+.at-compass-tool-bold:before {
+  font-family: 'school' !important;
+  content: "\e96b";
+}
+.at-desk-lamp-light-bold:before {
+  font-family: 'school' !important;
+  content: "\e96c";
+}
+.at-dna-science-bold:before {
+  font-family: 'school' !important;
+  content: "\e96d";
+}
+.at-education-bold:before {
+  font-family: 'school' !important;
+  content: "\e96e";
+}
+.at-eraser-bold:before {
+  font-family: 'school' !important;
+  content: "\e96f";
+}
+.at-geography-bold:before {
+  font-family: 'school' !important;
+  content: "\e970";
+}
+.at-glasses-bold:before {
+  font-family: 'school' !important;
+  content: "\e971";
+}
+.at-graduate-bold:before {
+  font-family: 'school' !important;
+  content: "\e972";
+}
+.at-graduation-bold:before {
+  font-family: 'school' !important;
+  content: "\e973";
+}
+.at-ink-pen-bold:before {
+  font-family: 'school' !important;
+  content: "\e974";
+}
+.at-language-translation-bold:before {
+  font-family: 'school' !important;
+  content: "\e975";
+}
+.at-library-bold:before {
+  font-family: 'school' !important;
+  content: "\e976";
+}
+.at-lockers-storage-bold:before {
+  font-family: 'school' !important;
+  content: "\e977";
+}
+.at-math-bold:before {
+  font-family: 'school' !important;
+  content: "\e978";
+}
+.at-media-bold:before {
+  font-family: 'school' !important;
+  content: "\e979";
+}
+.at-notebook-bold:before {
+  font-family: 'school' !important;
+  content: "\e97a";
+}
+.at-open-book-bold:before {
+  font-family: 'school' !important;
+  content: "\e97b";
+}
+.at-paperclip-bold:before {
+  font-family: 'school' !important;
+  content: "\e97c";
+}
+.at-papers-lines-bold:before {
+  font-family: 'school' !important;
+  content: "\e97d";
+}
+.at-pen-bold:before {
+  font-family: 'school' !important;
+  content: "\e97e";
+}
+.at-pencil-bold:before {
+  font-family: 'school' !important;
+  content: "\e97f";
+}
+.at-pencil-case-bold:before {
+  font-family: 'school' !important;
+  content: "\e980";
+}
+.at-pencil-ruler-bold:before {
+  font-family: 'school' !important;
+  content: "\e981";
+}
+.at-pillar-bold:before {
+  font-family: 'school' !important;
+  content: "\e982";
+}
+.at-pin-bold:before {
+  font-family: 'school' !important;
+  content: "\e983";
+}
+.at-presentation-bold:before {
+  font-family: 'school' !important;
+  content: "\e984";
+}
+.at-projector-device-bold:before {
+  font-family: 'school' !important;
+  content: "\e985";
+}
+.at-rulers-bold:before {
+  font-family: 'school' !important;
+  content: "\e986";
+}
+.at-ruler-tool-bold:before {
+  font-family: 'school' !important;
+  content: "\e987";
+}
+.at-school-bell-bold:before {
+  font-family: 'school' !important;
+  content: "\e988";
+}
+.at-school-chair-desk-bold:before {
+  font-family: 'school' !important;
+  content: "\e989";
+}
+.at-scienctific-bold:before {
+  font-family: 'school' !important;
+  content: "\e98a";
+}
+.at-scissor-bold:before {
+  font-family: 'school' !important;
+  content: "\e98b";
+}
+.at-sharpener-bold:before {
+  font-family: 'school' !important;
+  content: "\e98c";
+}
+.at-speech-bold:before {
+  font-family: 'school' !important;
+  content: "\e98d";
+}
+.at-teacher-desk-bold:before {
+  font-family: 'school' !important;
+  content: "\e98e";
+}
+.at-telescope-bold:before {
+  font-family: 'school' !important;
+  content: "\e98f";
+}
+.at-textbook-bold:before {
+  font-family: 'school' !important;
+  content: "\e990";
+}
+.at-timer-bold:before {
+  font-family: 'school' !important;
+  content: "\e991";
+}
+.at-whiteboard-bold:before {
+  font-family: 'school' !important;
+  content: "\e992";
+}

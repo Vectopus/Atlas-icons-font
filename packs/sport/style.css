@@ -1,0 +1,627 @@
+@font-face {
+  font-family: 'sport';
+  src:  url('fonts/sport.eot?mosa4q');
+  src:  url('fonts/sport.eot?mosa4q#iefix') format('embedded-opentype'),
+    url('fonts/sport.ttf?mosa4q') format('truetype'),
+    url('fonts/sport.woff?mosa4q') format('woff'),
+    url('fonts/sport.svg?mosa4q#sport') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.at-archery-bow-arrow-thin:before {
+  font-family: 'sport' !important;
+  content: "\e900";
+}
+.at-archery-target-thin:before {
+  font-family: 'sport' !important;
+  content: "\e901";
+}
+.at-badminton-shuttle-thin:before {
+  font-family: 'sport' !important;
+  content: "\e902";
+}
+.at-baseball-bat-thin:before {
+  font-family: 'sport' !important;
+  content: "\e903";
+}
+.at-baseball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e904";
+}
+.at-basketball-net-thin:before {
+  font-family: 'sport' !important;
+  content: "\e905";
+}
+.at-basketball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e906";
+}
+.at-bat-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e907";
+}
+.at-bicycle-thin:before {
+  font-family: 'sport' !important;
+  content: "\e908";
+}
+.at-billiard-cue-balls-thin:before {
+  font-family: 'sport' !important;
+  content: "\e909";
+}
+.at-bowling-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e90a";
+}
+.at-bowling-pin-thin:before {
+  font-family: 'sport' !important;
+  content: "\e90b";
+}
+.at-boxing-bag-thin:before {
+  font-family: 'sport' !important;
+  content: "\e90c";
+}
+.at-boxing-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e90d";
+}
+.at-boxing-glove-thin:before {
+  font-family: 'sport' !important;
+  content: "\e90e";
+}
+.at-canoe-thin:before {
+  font-family: 'sport' !important;
+  content: "\e90f";
+}
+.at-chess-piece-tower-thin:before {
+  font-family: 'sport' !important;
+  content: "\e910";
+}
+.at-dart-thin:before {
+  font-family: 'sport' !important;
+  content: "\e911";
+}
+.at-eight-ball-billiard-thin:before {
+  font-family: 'sport' !important;
+  content: "\e912";
+}
+.at-fencing-swords-thin:before {
+  font-family: 'sport' !important;
+  content: "\e913";
+}
+.at-football-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e914";
+}
+.at-football-helmet-thin:before {
+  font-family: 'sport' !important;
+  content: "\e915";
+}
+.at-football-soccer-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e916";
+}
+.at-football-soccer-sneakers-thin:before {
+  font-family: 'sport' !important;
+  content: "\e917";
+}
+.at-golf-club-thin:before {
+  font-family: 'sport' !important;
+  content: "\e918";
+}
+.at-gymnastics-olympics-thin:before {
+  font-family: 'sport' !important;
+  content: "\e919";
+}
+.at-gymnastics-rings-thin:before {
+  font-family: 'sport' !important;
+  content: "\e91a";
+}
+.at-handball-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e91b";
+}
+.at-hockey-stick-thin:before {
+  font-family: 'sport' !important;
+  content: "\e91c";
+}
+.at-ice-skate-thin:before {
+  font-family: 'sport' !important;
+  content: "\e91d";
+}
+.at-jersey-uniform-thin:before {
+  font-family: 'sport' !important;
+  content: "\e91e";
+}
+.at-martial-arts-uniform-thin:before {
+  font-family: 'sport' !important;
+  content: "\e91f";
+}
+.at-race-flag-thin:before {
+  font-family: 'sport' !important;
+  content: "\e920";
+}
+.at-racing-helmet-thin:before {
+  font-family: 'sport' !important;
+  content: "\e921";
+}
+.at-racket-thin:before {
+  font-family: 'sport' !important;
+  content: "\e922";
+}
+.at-referee-thin:before {
+  font-family: 'sport' !important;
+  content: "\e923";
+}
+.at-referee-whistle-thin:before {
+  font-family: 'sport' !important;
+  content: "\e924";
+}
+.at-shuttle-sport-thin:before {
+  font-family: 'sport' !important;
+  content: "\e925";
+}
+.at-skateboard-thin:before {
+  font-family: 'sport' !important;
+  content: "\e926";
+}
+.at-skating-skate-thin:before {
+  font-family: 'sport' !important;
+  content: "\e927";
+}
+.at-skiing-ski-thin:before {
+  font-family: 'sport' !important;
+  content: "\e928";
+}
+.at-sneakers-footware-shoe-thin:before {
+  font-family: 'sport' !important;
+  content: "\e929";
+}
+.at-soccer-football-field-thin:before {
+  font-family: 'sport' !important;
+  content: "\e92a";
+}
+.at-surfboard-surfboarding-thin:before {
+  font-family: 'sport' !important;
+  content: "\e92b";
+}
+.at-swimming-goggles-cap-thin:before {
+  font-family: 'sport' !important;
+  content: "\e92c";
+}
+.at-table-tennis-ping-pong--thin:before {
+  font-family: 'sport' !important;
+  content: "\e92d";
+}
+.at-uniform-jersey-thin:before {
+  font-family: 'sport' !important;
+  content: "\e92e";
+}
+.at-volleyball-ball-thin:before {
+  font-family: 'sport' !important;
+  content: "\e92f";
+}
+.at-volleyball-net-thin:before {
+  font-family: 'sport' !important;
+  content: "\e930";
+}
+.at-wrestling-gear-helmet-thin:before {
+  font-family: 'sport' !important;
+  content: "\e931";
+}
+.at-archery-bow-arrow:before {
+  font-family: 'sport' !important;
+  content: "\e932";
+}
+.at-archery-target:before {
+  font-family: 'sport' !important;
+  content: "\e933";
+}
+.at-badminton-shuttle:before {
+  font-family: 'sport' !important;
+  content: "\e934";
+}
+.at-baseball:before {
+  font-family: 'sport' !important;
+  content: "\e935";
+}
+.at-baseball-bat:before {
+  font-family: 'sport' !important;
+  content: "\e936";
+}
+.at-basketball:before {
+  font-family: 'sport' !important;
+  content: "\e937";
+}
+.at-basketball-net:before {
+  font-family: 'sport' !important;
+  content: "\e938";
+}
+.at-bat-ball:before {
+  font-family: 'sport' !important;
+  content: "\e939";
+}
+.at-bicycle:before {
+  font-family: 'sport' !important;
+  content: "\e93a";
+}
+.at-billiard-cue-balls:before {
+  font-family: 'sport' !important;
+  content: "\e93b";
+}
+.at-bowling-ball:before {
+  font-family: 'sport' !important;
+  content: "\e93c";
+}
+.at-bowling-pin:before {
+  font-family: 'sport' !important;
+  content: "\e93d";
+}
+.at-boxing-bag:before {
+  font-family: 'sport' !important;
+  content: "\e93e";
+}
+.at-boxing-ball:before {
+  font-family: 'sport' !important;
+  content: "\e93f";
+}
+.at-boxing-glove:before {
+  font-family: 'sport' !important;
+  content: "\e940";
+}
+.at-canoe:before {
+  font-family: 'sport' !important;
+  content: "\e941";
+}
+.at-chess-piece-tower:before {
+  font-family: 'sport' !important;
+  content: "\e942";
+}
+.at-dart:before {
+  font-family: 'sport' !important;
+  content: "\e943";
+}
+.at-eight-ball-billiard:before {
+  font-family: 'sport' !important;
+  content: "\e944";
+}
+.at-fencing-swords:before {
+  font-family: 'sport' !important;
+  content: "\e945";
+}
+.at-football-ball:before {
+  font-family: 'sport' !important;
+  content: "\e946";
+}
+.at-football-helmet:before {
+  font-family: 'sport' !important;
+  content: "\e947";
+}
+.at-football-soccer-ball:before {
+  font-family: 'sport' !important;
+  content: "\e948";
+}
+.at-football-soccer-sneakers:before {
+  font-family: 'sport' !important;
+  content: "\e949";
+}
+.at-golf-club:before {
+  font-family: 'sport' !important;
+  content: "\e94a";
+}
+.at-gymnastics-olympics:before {
+  font-family: 'sport' !important;
+  content: "\e94b";
+}
+.at-gymnastics-rings:before {
+  font-family: 'sport' !important;
+  content: "\e94c";
+}
+.at-handball-ball:before {
+  font-family: 'sport' !important;
+  content: "\e94d";
+}
+.at-hockey-stick:before {
+  font-family: 'sport' !important;
+  content: "\e94e";
+}
+.at-ice-skate:before {
+  font-family: 'sport' !important;
+  content: "\e94f";
+}
+.at-jersey-uniform:before {
+  font-family: 'sport' !important;
+  content: "\e950";
+}
+.at-martial-arts-uniform:before {
+  font-family: 'sport' !important;
+  content: "\e951";
+}
+.at-race-flag:before {
+  font-family: 'sport' !important;
+  content: "\e952";
+}
+.at-racing-helmet:before {
+  font-family: 'sport' !important;
+  content: "\e953";
+}
+.at-racket:before {
+  font-family: 'sport' !important;
+  content: "\e954";
+}
+.at-referee:before {
+  font-family: 'sport' !important;
+  content: "\e955";
+}
+.at-referee-whistle:before {
+  font-family: 'sport' !important;
+  content: "\e956";
+}
+.at-shuttle-sport:before {
+  font-family: 'sport' !important;
+  content: "\e957";
+}
+.at-skateboard:before {
+  font-family: 'sport' !important;
+  content: "\e958";
+}
+.at-skating-skate:before {
+  font-family: 'sport' !important;
+  content: "\e959";
+}
+.at-skiing-ski:before {
+  font-family: 'sport' !important;
+  content: "\e95a";
+}
+.at-sneakers-footware-shoe:before {
+  font-family: 'sport' !important;
+  content: "\e95b";
+}
+.at-soccer-football-field:before {
+  font-family: 'sport' !important;
+  content: "\e95c";
+}
+.at-surfboard-surfboarding:before {
+  font-family: 'sport' !important;
+  content: "\e95d";
+}
+.at-swimming-goggles-cap:before {
+  font-family: 'sport' !important;
+  content: "\e95e";
+}
+.at-table-tennis-ping-pong:before {
+  font-family: 'sport' !important;
+  content: "\e95f";
+}
+.at-uniform-jersey:before {
+  font-family: 'sport' !important;
+  content: "\e960";
+}
+.at-volleyball-ball:before {
+  font-family: 'sport' !important;
+  content: "\e961";
+}
+.at-volleyball-net:before {
+  font-family: 'sport' !important;
+  content: "\e962";
+}
+.at-wrestling-gear-helmet:before {
+  font-family: 'sport' !important;
+  content: "\e963";
+}
+.at-archery-bow-arrow-bold:before {
+  font-family: 'sport' !important;
+  content: "\e964";
+}
+.at-archery-target-bold:before {
+  font-family: 'sport' !important;
+  content: "\e965";
+}
+.at-badminton-shuttle-bold:before {
+  font-family: 'sport' !important;
+  content: "\e966";
+}
+.at-baseball-bat-bold:before {
+  font-family: 'sport' !important;
+  content: "\e967";
+}
+.at-baseball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e968";
+}
+.at-basketball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e969";
+}
+.at-basketball-net-bold:before {
+  font-family: 'sport' !important;
+  content: "\e96a";
+}
+.at-bat-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e96b";
+}
+.at-bicycle-bold:before {
+  font-family: 'sport' !important;
+  content: "\e96c";
+}
+.at-billiard-cue-balls-bold:before {
+  font-family: 'sport' !important;
+  content: "\e96d";
+}
+.at-bowling-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e96e";
+}
+.at-bowling-pin-bold:before {
+  font-family: 'sport' !important;
+  content: "\e96f";
+}
+.at-boxing-bag-bold:before {
+  font-family: 'sport' !important;
+  content: "\e970";
+}
+.at-boxing-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e971";
+}
+.at-boxing-glove-bold:before {
+  font-family: 'sport' !important;
+  content: "\e972";
+}
+.at-canoe-bold:before {
+  font-family: 'sport' !important;
+  content: "\e973";
+}
+.at-chess-piece-tower-bold:before {
+  font-family: 'sport' !important;
+  content: "\e974";
+}
+.at-dart-bold:before {
+  font-family: 'sport' !important;
+  content: "\e975";
+}
+.at-eight-ball-billiard-bold:before {
+  font-family: 'sport' !important;
+  content: "\e976";
+}
+.at-fencing-swords-bold:before {
+  font-family: 'sport' !important;
+  content: "\e977";
+}
+.at-football-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e978";
+}
+.at-football-helmet-bold:before {
+  font-family: 'sport' !important;
+  content: "\e979";
+}
+.at-football-soccer-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e97a";
+}
+.at-football-soccer-sneakers-bold:before {
+  font-family: 'sport' !important;
+  content: "\e97b";
+}
+.at-golf-club-bold:before {
+  font-family: 'sport' !important;
+  content: "\e97c";
+}
+.at-gymnastics-olympics-bold:before {
+  font-family: 'sport' !important;
+  content: "\e97d";
+}
+.at-gymnastics-rings-bold:before {
+  font-family: 'sport' !important;
+  content: "\e97e";
+}
+.at-handball-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e97f";
+}
+.at-hockey-stick-bold:before {
+  font-family: 'sport' !important;
+  content: "\e980";
+}
+.at-ice-skate-bold:before {
+  font-family: 'sport' !important;
+  content: "\e981";
+}
+.at-jersey-uniform-bold:before {
+  font-family: 'sport' !important;
+  content: "\e982";
+}
+.at-martial-arts-uniform-bold:before {
+  font-family: 'sport' !important;
+  content: "\e983";
+}
+.at-race-flag-bold:before {
+  font-family: 'sport' !important;
+  content: "\e984";
+}
+.at-racing-helmet-bold:before {
+  font-family: 'sport' !important;
+  content: "\e985";
+}
+.at-racket-bold:before {
+  font-family: 'sport' !important;
+  content: "\e986";
+}
+.at-referee-bold:before {
+  font-family: 'sport' !important;
+  content: "\e987";
+}
+.at-referee-whistle-bold:before {
+  font-family: 'sport' !important;
+  content: "\e988";
+}
+.at-shuttle-sport-bold:before {
+  font-family: 'sport' !important;
+  content: "\e989";
+}
+.at-skateboard-bold:before {
+  font-family: 'sport' !important;
+  content: "\e98a";
+}
+.at-skating-skate-bold:before {
+  font-family: 'sport' !important;
+  content: "\e98b";
+}
+.at-skiing-ski-bold:before {
+  font-family: 'sport' !important;
+  content: "\e98c";
+}
+.at-sneakers-footware-shoe-bold:before {
+  font-family: 'sport' !important;
+  content: "\e98d";
+}
+.at-soccer-football-field-bold:before {
+  font-family: 'sport' !important;
+  content: "\e98e";
+}
+.at-surfboard-surfboarding-bold:before {
+  font-family: 'sport' !important;
+  content: "\e98f";
+}
+.at-swimming-goggles-cap-bold:before {
+  font-family: 'sport' !important;
+  content: "\e990";
+}
+.at-table-tennis-ping-pong--bold:before {
+  font-family: 'sport' !important;
+  content: "\e991";
+}
+.at-uniform-jersey-bold:before {
+  font-family: 'sport' !important;
+  content: "\e992";
+}
+.at-volleyball-ball-bold:before {
+  font-family: 'sport' !important;
+  content: "\e993";
+}
+.at-volleyball-net-bold:before {
+  font-family: 'sport' !important;
+  content: "\e994";
+}
+.at-wrestling-gear-helmet-bold:before {
+  font-family: 'sport' !important;
+  content: "\e995";
+}

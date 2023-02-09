@@ -1,0 +1,458 @@
+@font-face {
+  font-family: 'yoga';
+  src:  url('fonts/yoga.eot?d0o9i0');
+  src:  url('fonts/yoga.eot?d0o9i0#iefix') format('embedded-opentype'),
+    url('fonts/yoga.ttf?d0o9i0') format('truetype'),
+    url('fonts/yoga.woff?d0o9i0') format('woff'),
+    url('fonts/yoga.svg?d0o9i0#yoga') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.at-backward-bridge-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\baa";
+}
+.at-boat-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bab";
+}
+.at-bow-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bac";
+}
+.at-bridge-yoga-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bad";
+}
+.at-camel-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bae";
+}
+.at-cat-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\baf";
+}
+.at-cow-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb0";
+}
+.at-crane-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb1";
+}
+.at-downward-facing-dog-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb2";
+}
+.at-extended-stand-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb3";
+}
+.at-goddess-squat-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb4";
+}
+.at-half-moon-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb5";
+}
+.at-handstand-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb6";
+}
+.at-headstand-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb7";
+}
+.at-leg-raise-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb8";
+}
+.at-leg-stretch-sitting-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bb9";
+}
+.at-locust-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bba";
+}
+.at-lord-of-dance-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bbb";
+}
+.at-lunge-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bbc";
+}
+.at-plank-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bbd";
+}
+.at-rest-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bbe";
+}
+.at-seated-forward-bend-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bbf";
+}
+.at-seated-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc0";
+}
+.at-sitting-arm-raise-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc1";
+}
+.at-sit-ups-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc2";
+}
+.at-squat-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc3";
+}
+.at-squat-yoga-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc4";
+}
+.at-standing-forward-bend-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc5";
+}
+.at-standing-stretch-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc6";
+}
+.at-straight-angle-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc7";
+}
+.at-toe-touch-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc8";
+}
+.at-tree-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bc9";
+}
+.at-triangle-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bca";
+}
+.at-twist-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bcb";
+}
+.at-upward-facing-dog-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bcc";
+}
+.at-yoga-pose-thin:before {
+  font-family: 'yoga' !important;
+  content: "\bcd";
+}
+.at-backward-bridge-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bce";
+}
+.at-boat-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bcf";
+}
+.at-bow-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd0";
+}
+.at-bridge-yoga-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd1";
+}
+.at-camel-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd2";
+}
+.at-cat-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd3";
+}
+.at-cow-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd4";
+}
+.at-crane-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd5";
+}
+.at-downward-facing-dog:before {
+  font-family: 'yoga' !important;
+  content: "\bd6";
+}
+.at-extended-stand-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd7";
+}
+.at-goddess-squat-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd8";
+}
+.at-half-moon-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bd9";
+}
+.at-handstand-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bda";
+}
+.at-headstand-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bdb";
+}
+.at-leg-raise-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bdc";
+}
+.at-leg-stretch-sitting-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bdd";
+}
+.at-locust-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bde";
+}
+.at-lord-of-dance-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bdf";
+}
+.at-lunge-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be0";
+}
+.at-plank-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be1";
+}
+.at-rest-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be2";
+}
+.at-seated-forward-bend-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be3";
+}
+.at-seated-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be4";
+}
+.at-sitting-arm-raise-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be5";
+}
+.at-sit-ups-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be6";
+}
+.at-squat-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be7";
+}
+.at-squat-yoga-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be8";
+}
+.at-standing-forward-bend-pose:before {
+  font-family: 'yoga' !important;
+  content: "\be9";
+}
+.at-standing-stretch:before {
+  font-family: 'yoga' !important;
+  content: "\bea";
+}
+.at-straight-angle-pose:before {
+  font-family: 'yoga' !important;
+  content: "\beb";
+}
+.at-toe-touch-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bec";
+}
+.at-tree-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bed";
+}
+.at-triangle-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bee";
+}
+.at-twist-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bef";
+}
+.at-upward-facing-dog-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bf0";
+}
+.at-yoga-pose:before {
+  font-family: 'yoga' !important;
+  content: "\bf1";
+}
+.at-backward-bridge-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf2";
+}
+.at-boat-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf3";
+}
+.at-bow-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf4";
+}
+.at-bridge-yoga-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf5";
+}
+.at-camel-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf6";
+}
+.at-cat-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf7";
+}
+.at-cow-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf8";
+}
+.at-crane-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bf9";
+}
+.at-downward-facing-dog-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bfa";
+}
+.at-extended-stand-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bfb";
+}
+.at-goddess-squat-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bfc";
+}
+.at-half-moon-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bfd";
+}
+.at-handstand-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bfe";
+}
+.at-headstand-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\bff";
+}
+.at-leg-raise-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c00";
+}
+.at-leg-stretch-sitting-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c01";
+}
+.at-locust-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c02";
+}
+.at-lord-of-dance-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c03";
+}
+.at-lunge-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c04";
+}
+.at-plank-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c05";
+}
+.at-rest-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c06";
+}
+.at-seated-forward-bend-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c07";
+}
+.at-seated-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c08";
+}
+.at-sitting-arm-raise-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c09";
+}
+.at-sit-ups-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c0a";
+}
+.at-squat-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c0b";
+}
+.at-squat-yoga-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c0c";
+}
+.at-standing-forward-bend-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c0d";
+}
+.at-standing-stretch-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c0e";
+}
+.at-straight-angle-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c0f";
+}
+.at-toe-touch-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c10";
+}
+.at-tree-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c11";
+}
+.at-triangle-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c12";
+}
+.at-twist-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c13";
+}
+.at-upward-facing-dog-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c14";
+}
+.at-yoga-pose-bold:before {
+  font-family: 'yoga' !important;
+  content: "\c15";
+}
