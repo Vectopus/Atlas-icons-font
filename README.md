@@ -2,25 +2,25 @@
 
 #### Open source [icons library](http://atlasicons.vectopus.com/), Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
 
-##### _Made by [Vectopus](http://vectopus.com/)._
+##### _Made by [VectorIcons](http://vectoricons.net/)._
 
 ### Simple use
 Use icons as a webfont. All you need to do is add the style file to the document ```<head>``` tag.
 ```html
-<link rel="stylesheet" href="https://unpkg.com/@vectopus/atlas-icons/style.css">
+<link rel="stylesheet" href="https://unpkg.com/@vectoricons/atlas-icons/style.css">
 ```
 
 Or use NPM to install font package.
 
 ```
 // Install package.
-npm i @vectopus/atlas-icons
+npm i @vectoricons/atlas-icons
 
 // Includes package styles in you main styles file.
-@import url("/node_modules/@vectopus/atlas-icons/style.css");
+@import url("/node_modules/@vectoricons/atlas-icons/style.css");
 
 // Or add the style to the document <head> tag.
-<link rel="stylesheet" href="node_modules/@vectopus/atlas-icons/style.css">
+<link rel="stylesheet" href="node_modules/@vectoricons/atlas-icons/style.css">
 ```
 
 ### Related Packages
