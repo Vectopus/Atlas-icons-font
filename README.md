@@ -29,5 +29,8 @@ npm i @vectoricons/atlas-icons
 - [Atlas Icons Vue](https://github.com/Vectopus/Atlas-icons-vue)
 - [Atlas Icons Flutter](https://github.com/Vectopus/Atlas-icons-flutter)
 
+### Community Packages
+- [Eleventy plugin - Atlas Icons](https://github.com/reatlat/eleventy-plugin-atlasicons)
+
 ### License
 MIT © [Atlas Icons](https://github.com/Vectopus/Atlas-icons-font/blob/main/LICENSE)
